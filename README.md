@@ -1,3 +1,3 @@
 # Shafat-Hussain
 
-Programming used : C++
+Programming language used : C++
